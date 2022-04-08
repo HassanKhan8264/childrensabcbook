@@ -1,0 +1,59 @@
+
+
+
+
+.heading {
+    background-color:rgba(240, 240, 233, 0.815);
+    font-family:cursive;
+    word-spacing: 3em;
+    letter-spacing:0.5em;
+    text-align:center;
+    padding:10px;
+    font-size:26px;
+    border:10px solid rgb(233, 233, 27);
+    text-decoration:underline solid green;
+    border-style:ridge;
+    width:1500px;
+    color:blue;
+    
+}
+.para{
+    background-color:rgba(243, 240, 240, 0.788);
+    height:50px;
+    font-family: cursive;
+    text-align:center;
+    font-size:30px;
+    font-weight:bolder;
+    word-spacing:10em;
+    WIDTH:1500px;
+    border:10px solid rgb(243, 96, 104);
+    border-style:outset;
+    color:red;
+}
+
+    
+
+ a{
+     text-decoration:none;
+     color:GREEN;
+     letter-spacing:;
+     font-family:cursive;
+     font-size:25px;
+     font-weight:bolder;
+     background-color:white;
+     padding:2px;
+    
+}
+ a:hover{
+          background-color:deeppink;
+          color:pink;    
+}
+ a:focus{
+    color:white;
+    background-color:black;
+}
+    
+}
+.image{
+    text-align:center;
+}

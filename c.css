@@ -1,0 +1,20 @@
+body{
+    color:green;
+    background-color:cadetblue;
+    text-align:center;
+}
+
+
+
+h1{
+    font-family: cursive;
+    font-size:40px;
+    color:yellowgreen;
+    TEXT-ALIGN:left;
+}
+p{
+    font-size: 24px;
+    font-weight:600;
+    font-family:cursive;
+    text-align:left;
+}
